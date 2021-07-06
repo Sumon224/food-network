@@ -89,8 +89,6 @@ body{
     background-image: url(images/7.png);
     background-size: cover;
     background-repeat: no-repeat;
-
-
 }
 .about-text{
     text-align: justify;
@@ -112,9 +110,7 @@ body{
     text-align: center;
     margin-bottom: 50px;
 }
-
 .recipe{
-    
     width: 35%;
     align-items: center;
     height:500px;
@@ -125,19 +121,20 @@ body{
     border-radius: 30px;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     text-align: center;
-
 }
+
 .box{
     margin-right: 80px;
     margin-left: 60px;
-
 }
+
 .image{
     width: 220px;
     height: 140px;
     margin: 5%;
-    padding-right: 22px;
-    padding-top: 30px;
+    padding-right: 10px;
+    padding-left: 5px;
+    padding-top: 45px;
 }
 
 .social-handle-follower{
@@ -161,7 +158,6 @@ body{
     text-align: center;
     color: whitesmoke;
     padding: 5px;
-
 }
 #footer-text-color{
     color: chocolate;
