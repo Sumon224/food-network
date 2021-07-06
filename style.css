@@ -107,3 +107,14 @@ body{
     padding-right: 22px;
     padding-top: 30px;
 }
+
+.footer{
+    background-color: black;
+    text-align: center;
+    color: whitesmoke;
+    padding: 5px;
+
+}
+#footer-text-color{
+    color: chocolate;
+}
