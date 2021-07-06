@@ -5,13 +5,14 @@ body{
 .orange-color{
     color: orange;
 }
+
 .top-text{
     font-size: 200%;
     padding-top: 5%;
     margin-left: 0;
     font-weight: bolder;
-
 }
+
 #font{
     font-size: 20px;
     color: rgb(141, 138, 138);
@@ -20,7 +21,6 @@ body{
 .flexible-container{
     display: flex;
     margin-bottom: 100px;
-
 }
 
 .link-button{
@@ -30,7 +30,6 @@ body{
     font-size: 15px;
     font-weight: 700;
     padding: 10px 30px;
-
     border-radius: 20px;
 }
 .half-width{
@@ -44,9 +43,9 @@ body{
 }
 
 .width{
-    width: 40%;
-    
+    width: 40%; 
 }
+
 .width img{
     width: 50%;
     padding-top: 15px;
@@ -106,6 +105,22 @@ body{
     margin: 5%;
     padding-right: 22px;
     padding-top: 30px;
+}
+
+.social-handle-follower{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 90%;
+    color: black;
+    text-align: center;
+    margin-left: 50px;
+    margin-bottom: 100px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.container{
+    display: inline-block;
+    padding-left: 120px;
+    padding-right: 120px;
 }
 
 .footer{
